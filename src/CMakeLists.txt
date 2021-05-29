@@ -4,7 +4,7 @@ project(test)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(test
-        leetcode/234_Palindrome_Linked_List.cpp)
+        leet_code/234_Palindrome_Linked_List.cpp)
 #        CommonDocTest.cpp
 #        main.cpp
 #        main_test.cpp
