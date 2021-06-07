@@ -22,6 +22,7 @@
      * => sum(P) = (target + sum(nums)) / 2
      * 因此题目转化为01背包，也就是能组合成容量为sum(P)的方式有多少种
      */
+//https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-494-target-sum/
 
 class Solution {
 public:
